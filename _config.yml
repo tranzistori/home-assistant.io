@@ -3,10 +3,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://www.home-assistant.io
-title: Home Assistant
+url: https://www.tranzistor.ro
+title: Home Assistant Tranzistor
 subtitle: Open source home automation that puts local control and privacy first.
-author: Home Assistant
+author: Tranzistor
 simple_search: https://www.google.com/search
 description: >-
   Open source home automation that puts local control and privacy first.
